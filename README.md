@@ -1,5 +1,9 @@
 # Welcome to LetsPy India Tour 2019 🚩
 
+<img src="gslogo.png" alt="gslogo" width="150" height="150" />
+
+
+
 This README gives an insight on LetsPy 2-days Paid Python Programming Bootcamp. By participating in the LetsPy India Tour 2019, you will learn and connect with great developers and professionals around you.
 
 ## What is [LetsPy](https://www.letspy.tech/)? 🤔
