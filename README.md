@@ -69,8 +69,15 @@ Delhi Technological University(DTU).  He is a Machine Learning Enthusiast who lo
   <br>
   **Twitter handle:** [@shilpa1994](https://twitter.com/shilpa1994)
     
-### 3. more will be updated soon...
+### 3. Khushboo Verma
 
+  **Topic:** Azure for Python Developers
+  <br>
+  <br>
+  **Intro:** I am a Microsoft Student Partner, pursuing my B.Tech. in CSE from IGDTUW. I will be talking about 'Azure for Python Developers'. It will be a hands-on session in which attendees will be given an introduction to using Python with Microsoft Azure.
+  <br>
+  <br>
+  **LinkedIn handle:** [Khushboo Verma](https://linkedin.com/in/khushboo-verma-4b3012166/)
 
 ## What are the perks for attendees? 😜
 - Attendee Kit including certificates and much more 💼
