@@ -1,4 +1,4 @@
-# Welcome to LetsPy India Tour 2019 🚩
+# Welcome to LetsPy Bootcamp India Tour 2019 🚩
 
 <img src="gslogo.png" alt="gslogo" width="150" height="150" />
 
@@ -8,7 +8,7 @@ This README gives an insight on LetsPy 2-days Paid Python Programming Bootcamp. 
 
 ## What is [LetsPy](https://www.letspy.tech/)? 🤔
 
-People learn better when they can learn with a community of likeminded peers. LetsPy is a Python Programming BootCamp that in previous 3 editions (1 in Pune and 2 in Nagpur) taught more than 2000 beginners in Python programming and open source development. It is an endeavor to encourage participation in the open source coding community, a hub to nurture passion and learn and grow with amazing resources, mentors and activities. A Bootcamp improves the technical knowledge of individuals, with training and support from various renowned professionals in the subject. Once you complete the training, you will have access to resources and support provided by the team, such as swags, presentations, attendee kit and the opportunity to attend events organized by GirlScript Foundation or GirlScript Chapter Leads like meetups and GirlScript Summit, etc.
+People learn better when they can learn with a community of likeminded peers. LetsPy is a Python Programming Bootcamp that in previous 3 editions (1 in Pune and 2 in Nagpur) taught more than 2000 beginners in Python programming and open source development. It is an endeavor to encourage participation in the open source coding community, a hub to nurture passion and learn and grow with amazing resources, mentors and activities. A Bootcamp improves the technical knowledge of individuals, with training and support from various renowned professionals in the subject. Once you complete the training, you will have access to resources and support provided by the team, such as swags, presentations, attendee kit and the opportunity to attend events organized by GirlScript Foundation or GirlScript Chapter Leads like meetups and GirlScript Summit, etc.
 
 ## When and where? 👀
 Date: 6-7 April 2019 📅
@@ -34,7 +34,7 @@ Bootcamp is about learning from scratch to advance level, not becoming a Python 
 
 During the training, you will cover the following topics:
 
-- Python Setup, Command Line, Git & GitHub Overview
+- Command Line, Git & GitHub Overview
 - Python Objects & Data Structure, Indexing & Slicing
 - Python Operators & Statements, Methods & Functions.
 - Object Oriented Python
@@ -44,10 +44,33 @@ During the training, you will cover the following topics:
 - Python in Data Science
 - Python for Cloud
 - Machine Learning with Python
-- Applications of Python in industry
+- Applications of Python in Industry
 
 ## Who are the speakers? 💖
-TBD
+
+### 1. Mayank Tripathi
+
+  **Topic:** Python in Data Science
+  <br>
+  <br>
+  **Intro:** Mayank is an Incoming Software Engineering Intern at Linkedin. He is a Pre-final year undergrad at 
+Delhi Technological University(DTU).  He is a Machine Learning Enthusiast who loves to solve complex real life problems. An open source evangelist, He had previously mentored at Google Code-In and GirlScript, and participated in GSoC’17. He is also an active participant in Hackathons and a tech blogger. In his free time, he chose to teach, travel and try his shot at photography.
+  <br>
+  <br>
+  **Twitter handle:** [@mayank_408](https://twitter.com/mayank_408)
+    
+### 2. Shilpa Garg
+
+  **Topic:** Machine Learning and its Application using Python
+  <br>
+  <br>
+  **Intro:** Working as Machine Learning Engineer at Conduent (Ernest while Xerox) also leading Women Techmakers New Delhi Chapter.
+  <br>
+  <br>
+  **Twitter handle:** [@shilpa1994](https://twitter.com/shilpa1994)
+    
+### 3. more will be updated soon...
+
 
 ## What are the perks for attendees? 😜
 - Attendee Kit including certificates and much more 💼
